@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-5e91c43c9d0dcc239de32a967ddd3c3312150e13	puppet-zaqar-distgit-ptl
+# UUID          Group Name
+6ddfecad023c6f4fa3ac8c4d2583c502ea675a73 	Non-Interactive Users
+7a78397cb976c057825f693f36746faf4b733043       	puppet-zaqar-distgit-core
+5e91c43c9d0dcc239de32a967ddd3c3312150e13        	puppet-zaqar-distgit-ptl
+global:Registered-Users		Registered Users
