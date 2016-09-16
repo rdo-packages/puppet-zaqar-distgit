@@ -20,7 +20,7 @@ Requires:       puppet >= 2.7.0
 Puppet module for OpenStack Zaqar
 
 %prep
-%setup -q -n %{name}-%{upstream_version}
+%setup -q -n openstack-zaqar-%{upstream_version}
 
 find . -type f -name ".*" -exec rm {} +
 find . -size 0 -exec rm {} +
