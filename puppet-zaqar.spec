@@ -54,3 +54,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/zaqar/
 - Update to 9.2.0
 
 
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/puppet-zaqar/commit/?id=3b18a0a8240f362f2a8a89a16ed2069247b2b62b
