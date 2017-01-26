@@ -1,6 +1,6 @@
 # UUID                                  	Group Name
 #
 5e91c43c9d0dcc239de32a967ddd3c3312150e13	puppet/puppet-zaqar-distgit-ptl
-7a78397cb976c057825f693f36746faf4b733043	puppet/puppet-zaqar-distgit-core
 63673ea7f2ae6a5666566b1ea9f14e473d00f5a9	rdo-core
+7a78397cb976c057825f693f36746faf4b733043	puppet/puppet-zaqar-distgit-core
 global:Registered-Users                 	Registered Users
