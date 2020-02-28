@@ -48,4 +48,3 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/zaqar/
 - Update to 15.4.0
 
 
-
